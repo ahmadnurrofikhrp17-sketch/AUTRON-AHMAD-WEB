@@ -2,5 +2,21 @@
     {
         "nama": "Nilai ideal dan budaya melayu",
         "deadline": "2026-09-17"
+    },
+    {
+        "nama": "Tugas Fisika",
+        "deadline": "2026-09-17"
+    },
+    {
+        "nama": "Kuis Rangkaian Listrik EV",
+        "deadline": "2026-09-28"
+    },
+    {
+        "nama": "Kuis Rangkaian Listrik DC",
+        "deadline": "2026-09-28"
+    },
+    {
+        "nama": "Kuis Listrik DC",
+        "deadline": "2026-09-28"
     }
 ]
